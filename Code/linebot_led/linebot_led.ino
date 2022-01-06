@@ -2,8 +2,8 @@
 #include <ESP8266HTTPClient.h>
 #include <MicroGear.h>
 #include <ArduinoJson.h>
-const char* ssid     = "ชื่อ WiFi";  
-const char* password = "รหัสผ่าน WiFi"; 
+const char* ssid     = "Suruay";  
+const char* password = "0871398136"; 
 
 const char* host = "---- INPUT ----"; // ตัวอย่างเช่น http://ชื่อappของคุณ.herokuapp.com/bot.php
 #define APPID   "Botlineesp8266" // ชื่อ APP ID ใน NETPIE
